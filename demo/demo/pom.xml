@@ -67,6 +67,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>MyWebApp1</finalName>
 	</build>
 
 </project>
